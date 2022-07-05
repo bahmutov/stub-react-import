@@ -1,4 +1,4 @@
-# stub-react-import
+# stub-react-import ![cypress version](https://img.shields.io/badge/cypress-10.3.0-brightgreen)
 
 > Stub an import from a Cypress v10 component test
 
