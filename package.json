@@ -1,6 +1,7 @@
 {
   "name": "stub-react-import",
   "version": "0.1.0",
+  "description": "Stub an import from a Cypress v10 component test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
