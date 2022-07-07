@@ -19,6 +19,9 @@ import './commands'
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
 
+// https://github.com/bahmutov/cypress-code-coverage
+import '@bahmutov/cypress-code-coverage/support'
+
 import { mount } from 'cypress/react'
 
 Cypress.Commands.add('mount', mount)
